@@ -1,0 +1,6 @@
+SocksPort 0
+
+ControlPort auto
+ControlPortWriteToFile %CONTROL_PORT_FILE%
+CookieAuthFile %COOKIE_AUTH_FILE%
+CookieAuthentication 1
